@@ -8,10 +8,10 @@ Return
 
 buttonOK:
 Gui, Submit
-FileAppend, %A_Now%`n%edit1%`n%edit2%`n, %A_Desktop%\YourFileName.txt
+FileAppend, %A_Now%`n%edit1%`n%edit2%`n, %A_Desktop%\Second_Brain.txt
 
 ; Define the file path
-FilePath := A_Desktop . "\YourFileName.txt"
+FilePath := A_Desktop . "\Second_Brain.txt"
 
 ; Create the message box
 MsgBox, 1,, Hockey Alert`nClick OK to open the file.
