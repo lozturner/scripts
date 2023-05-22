@@ -1,6 +1,6 @@
 Gui, Add, Text, x6 y6 w150 h30 , Text you want to be displayed
 Gui, Add, Edit, vedit1 x6 y36 w150 h20 , Link.. Thought.. Note..
-Gui, Add, Edit, vedit2 x6 y66 w150 h20 , Secondary Info:, Reminder>, Name?.
+Gui, Add, Edit, vedit2 x6 y66 w150 h20 , Secondary Info: Reminder?, Name?.
 Gui, Add, Button, x61 y96 w40 h30 gButtonOK , Ok
 
 Gui, Show,, Multiple Input Box.
