@@ -1,8 +1,8 @@
 ~MButton::
 if (A_PriorHotkey != "~MButton" or A_TimeSincePriorHotkey > 400)  ; 400 milliseconds 
 {
-   ; Too much time between clicks, so this isn't a double-click.
+   ; this presses the middle mouse button twice quickly
    return
 }
-Send, #{h}  ; This will emulate pressing Win+H
+Send, #{h}  ; This presses Win+H
 return
