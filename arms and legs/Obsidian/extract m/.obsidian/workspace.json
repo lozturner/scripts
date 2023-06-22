@@ -1,0 +1,231 @@
+{
+  "main": {
+    "id": "10cbbd58c85f239e",
+    "type": "split",
+    "children": [
+      {
+        "id": "bed8f30b3cc84769",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "19552094af567d19",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "a8c7a02dd627a1a2",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "Untitled 1.canvas",
+                "viewState": {
+                  "x": -5,
+                  "y": -20,
+                  "zoom": 0
+                }
+              }
+            }
+          },
+          {
+            "id": "20aa69eff36de57c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Catherine.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "1014ec669120ea28",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "Untitled 2.canvas",
+                "viewState": {
+                  "x": 132,
+                  "y": -5,
+                  "zoom": 0
+                }
+              }
+            }
+          },
+          {
+            "id": "8ba36cb90c3e7ad8",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "Untitled 3.canvas",
+                "viewState": {
+                  "x": -95,
+                  "y": 90,
+                  "zoom": 1
+                }
+              }
+            }
+          },
+          {
+            "id": "91fd8d9aa05c518f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Untitled.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 5
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "964f9885818deb12",
+    "type": "split",
+    "children": [
+      {
+        "id": "35eacc9f6cf386b0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8cdf2c1e95f7bb99",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "17a11f6b04687852",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "e988896de0f32f64",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "7e8326157bbd35ce",
+    "type": "split",
+    "children": [
+      {
+        "id": "10e1e541477db3e6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3407dd854380ad41",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Untitled.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "90e6c19065d61f41",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Untitled.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "8757085d0ac1c803",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "5247a606c95624d8",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Untitled.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "91fd8d9aa05c518f",
+  "lastOpenFiles": [
+    "Oakley Honestly to the point of tears story time.canvas",
+    "I'm in the writing room..md",
+    "Catherine.md",
+    "2023-06-13.md",
+    "Untitled.canvas",
+    "Untitled.md",
+    "Untitled 1.canvas",
+    "Untitled 5.canvas",
+    "Untitled 4.canvas",
+    "Untitled 2.canvas",
+    "Untitled 2.md",
+    "Untitled 3.canvas",
+    "Untitled 1.md"
+  ]
+}

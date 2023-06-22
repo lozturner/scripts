@@ -1,0 +1,10 @@
+{
+	"nodes":[
+		{"type":"text","text":"","id":"276357715dc11a37","x":-300,"y":-20,"width":250,"height":60},
+		{"type":"text","text":"","id":"1bfdbca8c9437f1d","x":40,"y":-80,"width":250,"height":60},
+		{"id":"eb83b25bdf691d3a","x":-100,"y":120,"width":250,"height":60,"type":"text","text":"So there is an a nutshell learn to teach my children if they get lost from Forester eight years older they can survive and once all the drama and dopamine is rested off from the situation around me don't Lacey will have no choice but to listen or look a fool."}
+	],
+	"edges":[
+		{"id":"82151d53c5a26580","fromNode":"276357715dc11a37","fromSide":"right","toNode":"1bfdbca8c9437f1d","toSide":"left"}
+	]
+}

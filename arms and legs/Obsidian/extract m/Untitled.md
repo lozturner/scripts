@@ -1,0 +1,5 @@
+Oh my fucking god.
+
+ So just say it you said you were going to go and do a 4-hour video for Andrew tape because he looks like that's something that you need to do you're regularly knock out two hour videos in meetings anyway or two hour meetings so you might as well. Just go ahead and do it and now. It's about holding to task so this idea about testosterone the idea about if you say no that it results in the fight so I'm going to sit there and focus mother on the things. I know that are before a time that we could have even been thought to have. Have a modded over responsibility. It's all on you. Do you remember shaking all the upside down from dungarees for whatever reason they've not conforming to your requests out of frustration and him falling and hitting his head on the floor. I don't do this out of her or spike. I do this to prove a fundamental point I actually think you have unconsciously been part of the problem. I am paying essentially for the Assumption interpretation or factual occurrencies of males or behavior or stereotypes or assumptions or fears. Before me.
+
+I said about trying to grow to be*

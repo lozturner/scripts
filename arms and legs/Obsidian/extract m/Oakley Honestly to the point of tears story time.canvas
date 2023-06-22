@@ -1,0 +1,17 @@
+{
+	"nodes":[
+		{"type":"text","text":" The premise and idea of writing my own stories for Oakley using artificial intelligence seems like a brilliant idea.","id":"ff441147e9ed91dd","x":149,"y":-277,"width":250,"height":60},
+		{"type":"text","text":" In practice, I have several floors.","id":"91addbb4c6ce2fb8","x":62,"y":-117,"width":250,"height":60},
+		{"type":"text","text":" The first emergency to note is despite the fact that telegram has a cast your screen feature. It doesn't fucking cast the screen which is absolutely unacceptable in front of a one-year old child who's trying to see the picture when I've primed him for a story?**","id":"09cfea12cd1490fa","x":-188,"y":40,"width":250,"height":60,"color":"1"},
+		{"type":"text","text":"I probably need to find a better mode in which to do the presentation but PowerPoint seems to work perfectly fine or Google slides. The idea of a gift seems to work up perfectly well a bit of time to read through the story to make sure there is rhythm and beat there. Always try and make the story around something that you've either done or Oakley is seen or experience recently. This is the method of reinforcement.\n\n\n I want to try and get some engagement and make him speak as well.**","id":"9fd0d2e537e586ec","x":77,"y":74,"width":250,"height":60},
+		{"type":"text","text":" I think next time simply an hour before would be better there would be some time for typing copy sometime for some graphics artificial intelligence is great for the generation the Photoshop is great for quick editing but ultimately they don't coincide and you need to be aware of this on a machine that you have limited capacity limited fucking buttons limited stylus. No pen. RAM issues possible connectivity issues the whole thing is very difficult you have to try and keep calm and collected so he doesn't pick up on that and the performance isn't affected.","id":"5242c77d297cf7b7","x":52,"y":255,"width":250,"height":60},
+		{"type":"text","text":"OAKLEY'S BEDTIME STORY WAS A FUCKING NIGHTMARE. I NEED TO REVIEW WHAT HAPPENS THOUGH. I DON'T MAKE THE SAME MISTAKE AGAIN.","id":"af58aa734e74228c","x":-240,"y":-440,"width":250,"height":60}
+	],
+	"edges":[
+		{"id":"eac7b8a961adef72","fromNode":"af58aa734e74228c","fromSide":"right","toNode":"ff441147e9ed91dd","toSide":"left"},
+		{"id":"b411b73bec3d142d","fromNode":"ff441147e9ed91dd","fromSide":"bottom","toNode":"91addbb4c6ce2fb8","toSide":"top"},
+		{"id":"6c57fa688f124971","fromNode":"91addbb4c6ce2fb8","fromSide":"bottom","toNode":"09cfea12cd1490fa","toSide":"top"},
+		{"id":"0a3fd179ced91ee2","fromNode":"91addbb4c6ce2fb8","fromSide":"bottom","toNode":"9fd0d2e537e586ec","toSide":"top"},
+		{"id":"f94bf5c484d3e042","fromNode":"9fd0d2e537e586ec","fromSide":"bottom","toNode":"5242c77d297cf7b7","toSide":"top"}
+	]
+}

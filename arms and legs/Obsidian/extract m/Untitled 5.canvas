@@ -1,0 +1,16 @@
+{
+	"nodes":[
+		{"id":"d64c21ad2ec0afc6","x":-300,"y":-340,"width":250,"height":60,"type":"text","text":"I'm absolutely pulling my fucking hair out here."},
+		{"id":"cda15dc8ed570d7a","x":-204,"y":-32,"width":250,"height":60,"type":"text","text":"I just need someone to talk to me how I need them to talk to me."},
+		{"id":"96e803add23894c5","x":121,"y":-104,"width":250,"height":60,"color":"2","type":"text","text":" Even having dan round is still not working.**"},
+		{"id":"9e739904a5a73e1f","x":13,"y":-606,"width":250,"height":60,"type":"text","text":" Think of an example any example to get going."},
+		{"id":"7621e068fb7d6824","x":740,"y":-120,"width":250,"height":60,"type":"text","text":"You're not angry enough because you haven't achieve what you set out."},
+		{"id":"c889dd3448f186ee","x":1241,"y":-124,"width":250,"height":60,"type":"text","text":" It's also the case that you've not clearly defined what it is. You're setting out."}
+	],
+	"edges":[
+		{"id":"73bda7264c8103c1","fromNode":"d64c21ad2ec0afc6","fromSide":"bottom","toNode":"cda15dc8ed570d7a","toSide":"top"},
+		{"id":"39ae49b4ee545f39","fromNode":"cda15dc8ed570d7a","fromSide":"right","toNode":"96e803add23894c5","toSide":"left"},
+		{"id":"d5fae28f2916e0e5","fromNode":"cda15dc8ed570d7a","fromSide":"top","toNode":"9e739904a5a73e1f","toSide":"bottom"},
+		{"id":"4183a2935520afcc","fromNode":"7621e068fb7d6824","fromSide":"right","toNode":"c889dd3448f186ee","toSide":"left"}
+	]
+}

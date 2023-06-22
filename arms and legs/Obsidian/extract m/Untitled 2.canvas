@@ -1,0 +1,21 @@
+{
+	"nodes":[
+		{"id":"9d18a842a38a55ec","x":-327,"y":-49,"width":250,"height":60,"type":"text","text":" to The Counselor"},
+		{"id":"098b81e723fb1b5a","x":-403,"y":-232,"width":250,"height":60,"type":"text","text":" I confidence my confidence has been knocked and think I should give everything up."},
+		{"id":"8380587dbd594d33","x":-704,"y":-222,"width":250,"height":60,"type":"text","text":" I don't want to be a nuisance or a pain to my neighbours. I have easily become overwhelmed and taken on too much stuff and struggle with organization."},
+		{"id":"50759e35ae8aea17","x":-500,"y":180,"width":250,"height":60,"color":"1","type":"text","text":" You can only spend the entire day here. If the following day you see planned organization and execution."},
+		{"id":"f1b1435f5fa21a14","x":-503,"y":262,"width":250,"height":60,"type":"text","text":" How do you ensure that?"},
+		{"id":"efa1ab09e5708937","x":35,"y":-80,"width":250,"height":60,"type":"text","text":" The wood collecting aspect of the business"},
+		{"id":"5999c759e8eca6d1","x":21,"y":-220,"width":250,"height":60,"type":"text","text":" I figured it would be relatively simple and astute to collect wood and then organize. Into prefabricated strips one meter and half meter this would be easy to store. I thought and any projects requiring would be put into the computer first and the amount of stock. Of one meter and a half metre. Wood would be calculated."},
+		{"id":"eeb7e1273ee42dba","x":-104,"y":220,"width":250,"height":60,"type":"text","text":"Writing room"}
+	],
+	"edges":[
+		{"id":"2eda55ad2369137b","fromNode":"eeb7e1273ee42dba","fromSide":"top","toNode":"9d18a842a38a55ec","toSide":"bottom"},
+		{"id":"f612ccabec9e5b4d","fromNode":"9d18a842a38a55ec","fromSide":"top","toNode":"098b81e723fb1b5a","toSide":"bottom"},
+		{"id":"abeda24e7794aac1","fromNode":"098b81e723fb1b5a","fromSide":"left","toNode":"8380587dbd594d33","toSide":"right"},
+		{"id":"17725cb1f4e60625","fromNode":"50759e35ae8aea17","fromSide":"bottom","toNode":"f1b1435f5fa21a14","toSide":"top"},
+		{"id":"a7959efad2921fdd","fromNode":"eeb7e1273ee42dba","fromSide":"top","toNode":"efa1ab09e5708937","toSide":"bottom"},
+		{"id":"d0327a97925033a0","fromNode":"efa1ab09e5708937","fromSide":"top","toNode":"5999c759e8eca6d1","toSide":"bottom"},
+		{"id":"8701d7c93f9c7fa4","fromNode":"5999c759e8eca6d1","fromSide":"left","toNode":"098b81e723fb1b5a","toSide":"right"}
+	]
+}
