@@ -1,0 +1,1 @@
+complete each line into a complete sentence. do not change the intent or context. correct the spelling and grammar using UK English. Capitalise Nouns, Names and places. Put a carriage return after each sentence. Capitalise the first word or each sentence. 
